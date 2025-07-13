@@ -1,0 +1,69 @@
+# Dataset files - DO NOT commit to GitHub
+UCI HAR Dataset/
+UCI HAR Dataset.names
+*.txt
+*.zip
+*.tar.gz
+
+# Large data files
+*.csv
+*.data
+*.dat
+
+# Jupyter notebook outputs
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated visualization files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.model
