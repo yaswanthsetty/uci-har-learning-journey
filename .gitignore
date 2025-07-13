@@ -5,6 +5,9 @@ UCI HAR Dataset.names
 *.zip
 *.tar.gz
 
+# Setup files (only needed locally, not in GitHub repo)
+SETUP_GITHUB.md
+
 # Large data files
 *.csv
 *.data
